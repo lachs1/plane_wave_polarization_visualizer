@@ -1,0 +1,3 @@
+\textbf{E} &= (\textbf{E}_{\text{r}} + j \textbf{E}_{\text{i}})e^{jk \textbf{a} \cdot \textbf{R}}
+\\
+\textbf{H} &= \frac{1}{\eta} \textbf{a} \times \textbf{E}
